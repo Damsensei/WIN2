@@ -69,33 +69,8 @@ Si WIN² peut aider d'autres écoles, associations, clubs sportifs ou comités d
 Des captures d'écran seront ajoutées prochainement.
 
 ```
-docs/
-└── screenshots/
-```
 
----
 
-# 📂 Structure du projet
-
-```
-WIN2
-│
-├── docs/
-│   ├── screenshots/
-│   └── logo/
-│
-├── samples/
-│   ├── participants.csv
-│   └── lots.csv
-│
-├── src/
-│   └── WIN2.ps1
-│
-├── README.md
-├── LICENSE
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-└── .gitignore
 ```
 
 ---
