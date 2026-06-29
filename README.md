@@ -1,6 +1,6 @@
 # 🎉 WIN²
 
-> **WIN²** est une application moderne de gestion de tombolas développée en **PowerShell** et **WPF**.
+> **WIN²** (WinWin) est une application moderne de gestion de tombolas développée en **PowerShell** et **WPF**.
 >
 > Elle permet d'organiser facilement des tirages de lots, de gérer plusieurs milliers de tickets, d'animer les résultats en direct et d'exporter automatiquement les gagnants.
 
