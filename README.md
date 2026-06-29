@@ -69,6 +69,7 @@ Si WIN² peut aider d'autres écoles, associations, clubs sportifs ou comités d
 Des captures d'écran seront ajoutées prochainement.
 
 ```
+<img width="1919" height="1120" alt="Capture d&#39;écran 2026-06-29 103350" src="https://github.com/user-attachments/assets/0bb72d72-b3a2-448f-a216-98f60062c6df" />
 
 
 ```
