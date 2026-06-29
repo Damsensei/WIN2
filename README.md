@@ -71,8 +71,8 @@ Des captures d'écran seront ajoutées prochainement.
 ```
 ### Écran principal
 
-![Accueil](docs/screenshots/home.png)
-
+[![Accueil](docs/screenshots/home.png)](https://github.com/Damsensei/WIN2/blob/df136a2d34de18bc830c0ea0779bca2f2c0d24f3/docs/screenshots/home.png)
+https://github.com/Damsensei/WIN2/blob/df136a2d34de18bc830c0ea0779bca2f2c0d24f3/docs/screenshots/settings.png
 
 ```
 
